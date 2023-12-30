@@ -11,7 +11,6 @@ function Header() {
      ">
       <Link to="/" className="tracking-widest">Fast React Pizza Co.</Link>
       <SearchOrder />
-      <p>Aghil</p>
       <UserName/>
     </header> 
   );

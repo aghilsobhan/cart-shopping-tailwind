@@ -4,7 +4,7 @@
 @layer components{
   .input{
     @apply
-   w-full 
+    
    rounded-full 
    border 
    border-stone-200
